@@ -23,7 +23,7 @@ It is useful for **SOC operations, incident response, and bulk IP blocking**.
 
 2. **Run Python**  
    - Type `python` and press Enter  
-   -  open the saved `.py` script and run it or copy paste the coad in cli
+   -  open the saved `.py` script and run it or copy paste the script in cli.
 
 3. **Enter the address group name** when prompted  
    - You can use an existing group or create a new one
